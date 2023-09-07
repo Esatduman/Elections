@@ -1,0 +1,13 @@
+*********************************************************
+ourvector<9ourvectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE> stats:
+ # of vectors created:   3
+ # of elements inserted: 1
+ # of elements accessed: 0
+*********************************************************
+
+looking at my stats my program wasn't fully functional and was not finished completely. Though my hard work did get some results. firstly my functions that loaded the data inside the files inserted the elements into a vector.
+my stats say the vectors created are 3 and that's because I have only 3 functioning commands for this program. elements accessed is zero and that's mainly because plotting and mapping of the democratic and republican calculations are 
+unfortunately not complete and missing. going into detail I had 2 functions that did the file loading process loadDataFile1 and loadDataFile2. they were functioning correctly so the rest of the program worked fine. My reading function 
+for the state districts was also stored inside a vector. as you can see in my program inside the function readingFile1 I am using getline() and subtract the string. by using find() I was able to move through the commas and print the information I needed. Lastly, my search function was my last function that was recorded 
+to my stats for the vector.  In conclusion, the vectors in my code played a crucial role in storing and accessing data. The creation of vectors was used to hold the data loaded from the input files, specifically districts_combined.txt and voters_combined.txt. These vectors allowed for easy access and manipulation of the data.
+ However, my stats show that while the vectors were functional, the rest of the program was not complete, leading to limited functionality. 
